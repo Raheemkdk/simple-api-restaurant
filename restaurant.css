@@ -1,0 +1,41 @@
+/* Universal */
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: lightcoral;
+    
+}
+header{
+    background-color: peachpuff;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(137, 129, 129)
+}
+main{
+    text-align: center;
+    h1{
+        margin-bottom:70px;
+    }
+    input{
+        width:30%;
+        height:30px;
+        border-radius:10px;
+    }
+    button{
+        border-radius:10px;
+        background-color: aqua;
+    }
+    button:hover{
+        transform:scale(1.1);
+    }
+}
+h3{
+    color:blanchedalmond
+}
+a:hover{
+    transform:scale(1.15)
+}
