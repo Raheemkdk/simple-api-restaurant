@@ -1,6 +1,7 @@
 # 🍽️ RaRa Kitchen — Recipe Finder
 
 A simple, interactive recipe finder built with **HTML, CSS, JavaScript, and the Spoonacular API**. Users can search for recipes using ingredients they already have and access links to cooking instructions.
+Live Link: https://rara-kitchen.onrender.com
 
 ## 🌟 Overview
 
