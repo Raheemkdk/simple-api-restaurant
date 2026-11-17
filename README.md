@@ -5,6 +5,8 @@ Live Link: https://rara-kitchen.onrender.com
 
 ## 🌟 Overview
 
+<img width="944" height="501" alt="image" src="https://github.com/user-attachments/assets/6013d5aa-a03c-4a6d-b5b9-abe8f08e7d63" />
+
 RaRa Kitchen is a web application that helps users discover recipes based on available ingredients.
 
 Instead of searching manually for meals, users can enter an ingredient and retrieve recipe suggestions from the Spoonacular API.
